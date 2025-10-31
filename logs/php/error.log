@@ -91,3 +91,4 @@
 [21-Oct-2025 12:05:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/admin001/Local Sites/913/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
 [21-Oct-2025 12:05:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/admin001/Local Sites/913/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
 [21-Oct-2025 12:05:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/admin001/Local Sites/913/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[30-Oct-2025 12:48:21 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
